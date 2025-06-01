@@ -49,11 +49,8 @@ Kontribusi sangat diterima! Jika Anda ingin menambahkan contoh atau memperbaiki 
 4. Push ke branch (`git push origin fitur-baru`)
 5. Buat Pull Request
 
-## 📜 Lisensi
-Repositori ini dilisensikan di bawah [MIT License](LICENSE).
-
 ---
 
 <div align="center">
-  <sub>Dibuat dengan ❤ oleh <a href="aldie imut">textualdreadlia</a></sub>
+  <sub>Dibuat dengan ❤ oleh <a href="https://github.com/teukualdieaulia">aldie imup</a></sub>
 </div>
