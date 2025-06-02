@@ -22,7 +22,7 @@ basic.js/
 ## 🚀 Cara Menggunakan
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/teukualdieaulia/basic.js.git
+   git clone https://github.com/teukualdieaulia/basic_js.git
    ```
 2. Buka file `index.html` di browser Anda
 3. Buka konsol developer (F12) untuk melihat output kode JavaScript
